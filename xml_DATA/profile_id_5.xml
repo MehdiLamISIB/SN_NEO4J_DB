@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<facebookProfile id="5">
+	<firstName>Loïca</firstName>
+	<lastName>Eassom</lastName>
+	<username>Loic</username>
+	<email>yeassom4@imgur.com</email>
+	<password>d57wD2DXzP2T</password>
+	<dateOfBirth>1966-11-05</dateOfBirth>
+	<gender>Male</gender>
+	<hometown>Jiangkou</hometown>
+	<location>China</location>
+	<education>
+		<school>Jiangsu University of Science and Technology</school>
+		<degree>Product Management</degree>
+		<fieldOfStudy/>
+		<graduationYear>1991</graduationYear>
+	</education>
+	<work>
+		<company>Meezzy</company>
+		<position>Social Worker</position>
+		<startDate>2016-01-28</startDate>
+	</work>
+	<about>Future-proofed reciprocal workforce</about>
+	<interests>
+		<interest>Books</interest>
+	</interests>
+	<friends/>
+</facebookProfile>

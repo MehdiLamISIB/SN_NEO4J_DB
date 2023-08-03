@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<facebookProfile id="12">
+	<firstName>Mélia</firstName>
+	<lastName>Blount</lastName>
+	<username>Blount</username>
+	<email>bblountb@360.cn</email>
+	<password>L2xLHvSlWV</password>
+	<dateOfBirth>1992-09-18</dateOfBirth>
+	<gender>Female</gender>
+	<hometown>Talipan</hometown>
+	<location>Philippines</location>
+	<education>
+		<school>Holy Angel University</school>
+		<degree>Marketing</degree>
+		<fieldOfStudy/>
+		<graduationYear>2001</graduationYear>
+	</education>
+	<work>
+		<company>Edgetag</company>
+		<position>Business Systems Development Analyst</position>
+		<startDate>2018-12-02</startDate>
+	</work>
+	<about>Multi-tiered zero tolerance infrastructure</about>
+	<interests>
+		<interest>TV</interest>
+	</interests>
+	<friends>
+		<friend id="6">
+			<firstName>Annotée</firstName>
+			<lastName>Iacovuzzi</lastName>
+			<username>Vozzi</username>
+		</friend>
+	</friends>
+</facebookProfile>

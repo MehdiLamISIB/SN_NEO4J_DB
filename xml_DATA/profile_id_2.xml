@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<facebookProfile id="2">
+	<firstName>Athéna</firstName>
+	<lastName>Gaize</lastName>
+	<username>Rome_y_45</username>
+	<email>egaize1@prweb.com</email>
+	<password>xjRxyB1L</password>
+	<dateOfBirth>1998-10-28</dateOfBirth>
+	<gender>Female</gender>
+	<hometown>Santa Cruz da Graciosa</hometown>
+	<location>Portugal</location>
+	<education>
+		<school>Instituto Politécnico de Santarém</school>
+		<degree>Legal</degree>
+		<fieldOfStudy/>
+		<graduationYear>2003</graduationYear>
+	</education>
+	<work>
+		<company>InnoZ</company>
+		<position>Marketing Assistant</position>
+		<startDate>2020-03-06</startDate>
+	</work>
+	<about>Universal client-server migration</about>
+	<interests>
+		<interest>Gaming</interest>
+		<interest>Football</interest>
+	</interests>
+	<friends>
+		<friend id="8">
+			<firstName>Gisèle</firstName>
+			<lastName>Ivankin</lastName>
+			<username>Ivank</username>
+		</friend>
+		<friend id="7">
+			<firstName>Mylène</firstName>
+			<lastName>Piegrome</lastName>
+			<username>Pierre</username>
+		</friend>
+		<friend id="4">
+			<firstName>Léonore</firstName>
+			<lastName>Richly</lastName>
+			<username>Richi</username>
+		</friend>
+		<friend id="1">
+			<firstName>Maëly</firstName>
+			<lastName>Ossulton</lastName>
+			<username>Mal123</username>
+		</friend>
+	</friends>
+</facebookProfile>

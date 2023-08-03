@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<facebookProfile id="10">
+	<firstName>Solène</firstName>
+	<lastName>Aronovitz</lastName>
+	<username>Aronov</username>
+	<email>maronovitz9@rediff.com</email>
+	<password>hc6GdLUa5Yxy</password>
+	<dateOfBirth>1999-01-28</dateOfBirth>
+	<gender>Female</gender>
+	<hometown>Mamu</hometown>
+	<location>China</location>
+	<education>
+		<school>Heilongjiang University</school>
+		<degree>Accounting</degree>
+		<fieldOfStudy/>
+		<graduationYear>2010</graduationYear>
+	</education>
+	<work>
+		<company>Innojam</company>
+		<position>Junior Executive</position>
+		<startDate>2019-03-12</startDate>
+	</work>
+	<about>Operative uniform task-force</about>
+	<interests>
+		<interest>Volleyball</interest>
+		<interest>Handball</interest>
+	</interests>
+	<friends>
+		<friend id="1">
+			<firstName>Maëly</firstName>
+			<lastName>Ossulton</lastName>
+			<username>Mal123</username>
+		</friend>
+	</friends>
+</facebookProfile>

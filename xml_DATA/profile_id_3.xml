@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<facebookProfile id="3">
+	<firstName>Clélia</firstName>
+	<lastName>Kilfedder</lastName>
+	<username>Fakel</username>
+	<email>skilfedder2@apple.com</email>
+	<password>rmpo8bfNd7MT</password>
+	<dateOfBirth>1984-03-15</dateOfBirth>
+	<gender>Male</gender>
+	<hometown>Fakel</hometown>
+	<location>Russia</location>
+	<education>
+		<school>Novosibirsk State Music Academy M. Glinka</school>
+		<degree>Legal</degree>
+		<fieldOfStudy/>
+		<graduationYear>2009</graduationYear>
+	</education>
+	<work>
+		<company>Twinder</company>
+		<position>Structural Engineer</position>
+		<startDate>2015-08-30</startDate>
+	</work>
+	<about>Exclusive static function</about>
+	<interests>
+		<interest>Basketball</interest>
+	</interests>
+	<friends>
+		<friend id="11">
+			<firstName>Göran</firstName>
+			<lastName>Van Der Vlies</lastName>
+			<username>Karangli</username>
+		</friend>
+		<friend id="6">
+			<firstName>Annotée</firstName>
+			<lastName>Iacovuzzi</lastName>
+			<username>Vozzi</username>
+		</friend>
+	</friends>
+</facebookProfile>

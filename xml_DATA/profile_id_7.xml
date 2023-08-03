@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<facebookProfile id="7">
+	<firstName>Mylène</firstName>
+	<lastName>Piegrome</lastName>
+	<username>Pierre</username>
+	<email>epiegrome6@discuz.net</email>
+	<password>JDAUqNDfgTp</password>
+	<dateOfBirth>1967-10-31</dateOfBirth>
+	<gender>Male</gender>
+	<hometown>Vårby</hometown>
+	<location>Sweden</location>
+	<education>
+		<school>Free University Stockholm</school>
+		<degree>Product Management</degree>
+		<fieldOfStudy/>
+		<graduationYear>2000</graduationYear>
+	</education>
+	<work>
+		<company>Feedmix</company>
+		<position>Physical Therapy Assistant</position>
+		<startDate>2017-03-02</startDate>
+	</work>
+	<about>Synchronised stable approach</about>
+	<interests>
+		<interest>Fishing</interest>
+		<interest>Football</interest>
+	</interests>
+	<friends>
+		<friend id="6">
+			<firstName>Annotée</firstName>
+			<lastName>Iacovuzzi</lastName>
+			<username>Vozzi</username>
+		</friend>
+		<friend id="2">
+			<firstName>Athéna</firstName>
+			<lastName>Gaize</lastName>
+			<username>Rome_y_45</username>
+		</friend>
+	</friends>
+</facebookProfile>

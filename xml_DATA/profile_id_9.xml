@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<facebookProfile id="9">
+	<firstName>Léonore</firstName>
+	<lastName>Chaffyn</lastName>
+	<username>Chap</username>
+	<email>cchaffyn8@nytimes.com</email>
+	<password>Vnz4h6O</password>
+	<dateOfBirth>1986-05-15</dateOfBirth>
+	<gender>Female</gender>
+	<hometown>Pivijay</hometown>
+	<location>Colombia</location>
+	<education>
+		<school>Universidad Católica de Manizales</school>
+		<degree>Engineering</degree>
+		<fieldOfStudy/>
+		<graduationYear>1995</graduationYear>
+	</education>
+	<work>
+		<company>Fanoodle</company>
+		<position>Assistant Professor</position>
+		<startDate>2016-12-22</startDate>
+	</work>
+	<about>Open-architected tangible toolset</about>
+	<interests>
+		<interest>Dance</interest>
+		<interest>Books</interest>
+	</interests>
+	<friends>
+		<friend id="8">
+			<firstName>Gisèle</firstName>
+			<lastName>Ivankin</lastName>
+			<username>Ivank</username>
+		</friend>
+		<friend id="6">
+			<firstName>Annotée</firstName>
+			<lastName>Iacovuzzi</lastName>
+			<username>Vozzi</username>
+		</friend>
+	</friends>
+</facebookProfile>

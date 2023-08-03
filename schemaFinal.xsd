@@ -1,0 +1,61 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="facebookProfile">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element type="xs:string" name="firstName"/>
+        <xs:element type="xs:string" name="lastName"/>
+        <xs:element type="xs:string" name="username"/>
+        <xs:element type="xs:string" name="email"/>
+        <xs:element type="xs:string" name="password"/>
+        <xs:element type="xs:date" name="dateOfBirth"/>
+        <xs:element type="xs:string" name="gender"/>
+        <xs:element type="xs:string" name="hometown"/>
+        <xs:element type="xs:string" name="location"/>
+        <xs:element name="education">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:string" name="school"/>
+              <xs:element type="xs:string" name="degree"/>
+              <xs:element type="xs:string" name="fieldOfStudy"/>
+              <xs:element type="xs:short" name="graduationYear"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="work">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:string" name="company"/>
+              <xs:element type="xs:string" name="position"/>
+              <xs:element type="xs:date" name="startDate"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element type="xs:string" name="about"/>
+        <xs:element name="interests">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:string" name="interest" maxOccurs="unbounded" minOccurs="0"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="friends">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="friend" maxOccurs="unbounded" minOccurs="0">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element type="xs:string" name="firstName"/>
+                    <xs:element type="xs:string" name="lastName"/>
+                    <xs:element type="xs:string" name="username"/>
+                  </xs:sequence>
+                  <xs:attribute type="xs:int" name="id"/>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+      <xs:attribute type="xs:short" name="id"/>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

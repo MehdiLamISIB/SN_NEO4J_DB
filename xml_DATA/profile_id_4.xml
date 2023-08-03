@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<facebookProfile id="4">
+	<firstName>Léonore</firstName>
+	<lastName>Richly</lastName>
+	<username>Richi</username>
+	<email>crichly3@netlog.com</email>
+	<password>jawkVL9XcA7</password>
+	<dateOfBirth>1961-04-24</dateOfBirth>
+	<gender>Female</gender>
+	<hometown>Botou</hometown>
+	<location>China</location>
+	<education>
+		<school>Zhengzhou Grain University</school>
+		<degree>Product Management</degree>
+		<fieldOfStudy/>
+		<graduationYear>2010</graduationYear>
+	</education>
+	<work>
+		<company>Buzzster</company>
+		<position>Environmental Tech</position>
+		<startDate>2020-03-07</startDate>
+	</work>
+	<about>Versatile bottom-line portal</about>
+	<interests>
+		<interest>Movies</interest>
+		<interest>Guitar</interest>
+		<interest>Drawing</interest>
+	</interests>
+	<friends>
+		<friend id="2">
+			<firstName>Athéna</firstName>
+			<lastName>Gaize</lastName>
+			<username>Rome_y_45</username>
+		</friend>
+	</friends>
+</facebookProfile>

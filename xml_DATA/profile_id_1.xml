@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<facebookProfile id="1">
+	<firstName>Maëly</firstName>
+	<lastName>Ossulton</lastName>
+	<username>Mal123</username>
+	<email>dossulton0@google.ru</email>
+	<password>d2WmI1RfJw</password>
+	<dateOfBirth>1969-08-22</dateOfBirth>
+	<gender>Male</gender>
+	<hometown>Aţ Ţafīlah</hometown>
+	<location>Jordan</location>
+	<education>
+		<school>Irbid National University</school>
+		<degree>Legal</degree>
+		<fieldOfStudy/>
+		<graduationYear>2011</graduationYear>
+	</education>
+	<work>
+		<company>Photobean</company>
+		<position>Developer II</position>
+		<startDate>2016-07-01</startDate>
+	</work>
+	<about>Grass-roots well-modulated instruction set</about>
+	<interests>
+		<interest>Programming</interest>
+		<interest>Football</interest>
+	</interests>
+	<friends>
+		<friend id="10">
+			<firstName>Solène</firstName>
+			<lastName>Aronovitz</lastName>
+			<username>Aronov</username>
+		</friend>
+		<friend id="2">
+			<firstName>Athéna</firstName>
+			<lastName>Gaize</lastName>
+			<username>Rome_y_45</username>
+		</friend>
+	</friends>
+</facebookProfile>

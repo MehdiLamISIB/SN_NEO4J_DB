@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<facebookProfile id="6">
+	<firstName>Annotée</firstName>
+	<lastName>Iacovuzzi</lastName>
+	<username>Vozzi</username>
+	<email>miacovuzzi5@exblog.jp</email>
+	<password>ZMIjPzh1</password>
+	<dateOfBirth>1970-02-27</dateOfBirth>
+	<gender>Female</gender>
+	<hometown>Souillac</hometown>
+	<location>Mauritius</location>
+	<education>
+		<school>University of Technology</school>
+		<degree>Human Resources</degree>
+		<fieldOfStudy/>
+		<graduationYear>2012</graduationYear>
+	</education>
+	<work>
+		<company>Mudo</company>
+		<position>Senior Cost Accountant</position>
+		<startDate>2018-08-16</startDate>
+	</work>
+	<about>Fully-configurable background ability</about>
+	<interests>
+		<interest>Drums</interest>
+		<interest>Work out</interest>
+	</interests>
+	<friends>
+		<friend id="12">
+			<firstName>Mélia</firstName>
+			<lastName>Blount</lastName>
+			<username>Blount</username>
+		</friend>
+		<friend id="7">
+			<firstName>Mylène</firstName>
+			<lastName>Piegrome</lastName>
+			<username>Pierre</username>
+		</friend>
+		<friend id="9">
+			<firstName>Léonore</firstName>
+			<lastName>Chaffyn</lastName>
+			<username>Chap</username>
+		</friend>
+		<friend id="3">
+			<firstName>Clélia</firstName>
+			<lastName>Kilfedder</lastName>
+			<username>Fakel</username>
+		</friend>
+	</friends>
+</facebookProfile>

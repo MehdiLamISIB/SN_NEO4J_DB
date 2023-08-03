@@ -6,4 +6,4 @@
 
 
 ###The idea behind using neo4j is to get a graphical view of the social network database.
-![Image_of_neo4j_DB](DB_Noeud_Reseau.png)
+![](DB_Noeud_Reseau.png)

@@ -4,7 +4,7 @@
 * #### This html shows information about the profile
 #
 
-##The neo4j graph of the database:
+## The neo4j graph of the database:
 ![](DB_Noeud_Reseau.png)
 
 ## The html profile of an individual:

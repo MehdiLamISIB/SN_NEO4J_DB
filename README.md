@@ -7,10 +7,10 @@
 
 
 
-###The idea behind using neo4j is to get a graphical view of the social network database.
+##The neo4j graph of the database:
 ![](DB_Noeud_Reseau.png)
 
 
-
+## The html profile of an individual:
 ![](profile_html_example.png)
 

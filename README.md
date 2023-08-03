@@ -1,5 +1,5 @@
 #Social network Neo4j DB Project :
-* ####Transform Neo4j profile into a csv data set using xml created in xml_DATA/ directory 
+* ####Transform Neo4j profile into a CSV data set using xml created in xml_DATA/ directory 
 * ####Using xml and xslt for creating a html in html_pages/ directory
 * ####This html display information about the profile
 
@@ -8,3 +8,11 @@
 
 ## The html profile of an individual:
 ![](profile_html_example.png)
+
+
+####I used py2neo module for retrieving the data set with Graph
+```python
+from py2neo import Graph
+
+graph = Graph(host="localhost",name="your_collection", auth=("neo4j", "your_password"))
+```

@@ -12,3 +12,7 @@ MERGE (p)-[:WORKTO]->(w)
 match(p{id:"1"})
 CREATE (its:Interests{interest:["Programming","Football"]})
 MERGE (p)-[:HASINTEREST]-(its)
+
+
+//Show the entire graph
+match(n) return n

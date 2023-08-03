@@ -1,0 +1,14 @@
+// loaded random CSV value I created from for testing https://www.mockaroo.com/
+// All the merge are used to link other Node as Education, Work, ... with the coresspondant Profile
+LOAD CSV WITH HEADERS FROM 'file:///DataCSV.csv' as row
+MERGE(p:Account{id:row.id,firstName:row.firstName,lastName:row.lastName,username:row.username,email:row.email,password:row.password,dateOfBirth:row.dateofBirth,gender:row.gender,hometown:row.hometown,location:row.location,about:row.about})
+MERGE(e:Education{school:row.school,degree:row.degree,fieldOfStudy:"",graduationYear:row.graduationYear})
+MERGE(w:Work{company:row.company,position:row.position,startDate:row.startDate})
+MERGE (p)-[:EDUCATEDTO]->(e)
+MERGE (p)-[:WORKTO]->(w)
+
+
+// add a link between the profile and interest of the profile
+match(p{id:"1"})
+CREATE (its:Interests{interest:["Programming","Football"]})
+MERGE (p)-[:HASINTEREST]-(its)
